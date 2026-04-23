@@ -1,11 +1,11 @@
-# 🏛️ TenderSort — AI-Based Tender Evaluation Platform
+#  TenderSort — AI-Based Tender Evaluation Platform
 
 > **Hackathon 2025 · CRPF · Theme 3**  
 > Built by **SimplifyAI**
 
 ---
 
-## 🔗 Links
+##  Links
 
 -  **Live Demo:** [tendersort.netlify.app](https://tendersort.netlify.app)
 -  **GitHub:** [github.com/zaidkamar08/tendersort](https://github.com/zaidkamar08/tendersort)
@@ -78,7 +78,7 @@ TenderSort is an AI-powered platform that automates government tender evaluation
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -93,7 +93,7 @@ TenderSort is an AI-powered platform that automates government tender evaluation
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18+ — [Download here](https://nodejs.org)
@@ -126,7 +126,7 @@ The output will be in the `/dist` folder.
 
 ---
 
-## 📊 Sample Evaluation Output
+##  Sample Evaluation Output
 
 | Bidder | Turnover ≥₹5Cr | 3 Projects | GST Reg. | ISO 9001 | Verdict |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@ The output will be in the `/dist` folder.
 
 ---
 
-## ⚠️ Non-Negotiables (Met)
+##  Non-Negotiables (Met)
 
 -  Every verdict is explainable at criterion level
 -  No silent disqualification — ambiguous cases go to human review
