@@ -12,7 +12,7 @@
 
 ---
 
-##  What is TenderSort?
+##  What is TenderSort?  
 
 TenderSort is an AI-powered platform that automates government tender evaluation. It extracts eligibility criteria from tender documents, parses every bidder submission (including scanned PDFs and photos), matches evidence against criteria, and delivers explainable verdicts — in minutes, not days.
 
