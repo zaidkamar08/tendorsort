@@ -212,7 +212,7 @@ export default function Home() {
             <div>
               <div className="inline-flex items-center gap-2 bg-teal-dark/30 border border-teal-DEFAULT/30 text-teal-light text-xs font-medium px-3 py-1.5 rounded-full mb-6 animate-fade-up">
                 <span className="w-1.5 h-1.5 bg-teal-light rounded-full animate-pulse" />
-                Hackathon 2025 · CRPF · Theme 3
+                Hackathon 2026 · CRPF · Theme 3
               </div>
               <h1 className="font-display text-4xl md:text-5xl font-800 text-white leading-tight mb-6 animate-fade-up delay-100">
                 Government Tender Evaluation,{' '}
@@ -334,7 +334,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <span className="font-display text-white font-600">Tender<span className="text-[#0D9488]">Sort</span></span>
-            <span className="text-slate-600 text-xs">by SimplifyAI</span>
+            <span className="text-slate-600 text-xs">by Byte Verdict</span>
           </div>
           <p className="text-slate-600 text-xs">Hackathon 2025 · Theme 3 · AI-Based Tender Evaluation for CRPF</p>
         </div>
